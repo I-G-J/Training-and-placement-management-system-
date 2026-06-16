@@ -123,10 +123,5 @@ Start the backend and inspect `controllers/` to see exact endpoints and expected
 
 ---
 
-If you want, I can also:
-
-- Add a `.env.example` file for both backend and frontend
-- Generate a concise API reference (endpoints + payloads)
-- Add setup scripts to make running both apps easier (concurrently/docker)
 
 README created at project root.
